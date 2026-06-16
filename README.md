@@ -609,3 +609,19 @@ Recommended commit style:
 - `fix: correct abc`
 - `docs: update setup steps`
 
+
+
+## Patent
+
+This project is protected under a registered patent.
+
+
+| Field | Details |
+|-------------|----------------------------------------------|
+| Patent Title | BLOCKCHAIN-BASED SECURE DATA SHARING DEVICE |
+| Patent Number | 497316-001 |
+| Inventor | Gaurav Negi |
+| Filed Date | 04/04/2026 |
+| Status | Granted |
+
+> This project is protected by a granted patent. Unauthorized use is strictly prohibited.
